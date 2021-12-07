@@ -12,8 +12,8 @@ Bsp.: Die Methode ```getBoard(3,4)``` gibt ein 2D Array zurück, das so aussieht
 
 ℹ️ Tipp:
 1. Lauft mit einer doppelten ```for``` Schleife über das 2D Array.
-2. Befüllt in allen Arrays, die über einen ungeraden Index aufrufbar sind, alle Stellen mit einem ungeraden Index mit 1
-3. Befüllt in allen Arrays, die über einen  geraden Index aufrufbar sind, alle Stellen mit einem geraden Index mit 0
+2. Befüllt in allen Arrays, die über einen **ungeraden** Index aufrufbar sind, alle Positionen mit einem **ungeraden** Index mit 1
+3. Befüllt in allen Arrays, die über einen  **geraden** Index aufrufbar sind, alle Positionen mit einem **geraden Index mit 1
 
 
 
