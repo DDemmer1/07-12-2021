@@ -3,9 +3,9 @@
 
 ### 📝 Aufgabe:
 
-Erstellt eine Klasse ```Chess``` . Programmiert darin eine Methode  ```getBoard(int length, int height)``` die euch ein ```int[][]``` als ```return``` Wert zurückgibt, das in einem Schachbrettmuster mit 0 und 1 gefüllt ist.
+Erstellt eine Klasse ```Chess``` . Programmiert darin eine Methode  ```getBoard(int height, int length)``` die euch ein ```int[][]``` als ```return``` Wert zurückgibt, das in einem Schachbrettmuster mit 0 und 1 gefüllt ist.
 
-Bsp.: Die Methode ```getBoard(3,4)``` gibt ein 2D Array zurück, das so aussieht:
+Bsp.: Die Methode ```getBoard(4,3)``` gibt ein 2D Array zurück, das so aussieht:
 
 1 0 1<br/>0 1 0<br/>1 0 1<br/>0 1 0
 
